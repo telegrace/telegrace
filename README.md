@@ -2,9 +2,13 @@
 <h1 align="center">Hi 👋, I'm Grace</h1>
 <h3 align="center">Full-stack developer intern @ Makinas</h3>
 
-- 🔭 I’m currently working on **a new petition page**
+- 🔭 I’m currently maintaining an internal note-taking website, which uses Next.js, Prisma, Bootstrap5, Easy-Peasy, auth0 and is hosted on Netlify. 
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **CS50**, topics include *C, memory and data structures, Python3, Flask etc.*
+
+- 📚 I’m currently reading **Never the Split The Difference** and **User Story Mapping: Discover the Whole Story, Build the Right Product**
+
+- 🤖 Next thing I want to learn: **Typescript.**
 
 - 💬 Ask me about **general IT questions, or React**
 
