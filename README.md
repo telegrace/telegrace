@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently maintaining an internal note-taking website, which uses Next.js, Prisma, Bootstrap5, Easy-Peasy, auth0 and is hosted on Netlify. 
 
-- 🌱 I’m currently learning **CS50**, topics include *C, memory and data structures, Python3, Flask etc.*
+- 🌱 I’m currently learning **Flask and Docker**
 
 - 📚 I’m currently reading **Never the Split The Difference** and **User Story Mapping: Discover the Whole Story, Build the Right Product**
 
