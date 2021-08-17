@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently maintaining an internal note-taking website, which uses Next.js, Prisma, Bootstrap5, Easy-Peasy, auth0 and is hosted on Netlify. 
 
-- 🌱 I’m currently learning **Flask and Docker**
+- 🌱 I’m currently learning about [stats](https://www.youtube.com/playlist?list=PLTNMv857s9WVStKLco6ZBOsfSGXzJ1L0f) and [data analysis with Python](https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-course/how-to-use-jupyter-notebooks-intro) 
 
 - 📚 I’m currently reading **Never the Split The Difference** and **User Story Mapping: Discover the Whole Story, Build the Right Product**
 
