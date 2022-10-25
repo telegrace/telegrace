@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Grace</h1>
-<h3 align="center">A passionate full-stack developer from the UK.</h3>
+<h4 align="center">A passionate full-stack developer from the UK.</h4>
 
 - 🔭 I’m currently working on [high-five](https://github.com/telegrace/high-five)
 
@@ -12,6 +12,8 @@
 - 📄 Know about my experiences [https://www.linkedin.com/in/telegrace/](https://www.linkedin.com/in/telegrace/)
 
 - ⚡ Fun fact **I make things offline too! 🪡🧵**
+
+- P.S ich kann deutsch. 我的中文也還好.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
